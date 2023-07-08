@@ -1,0 +1,2126 @@
+Number,StartMilliseconds,EndMilliseconds,Text
+1,158680,160557,Did you hear that?
+2,160680,163319,"They shut down the main reactor.
+We'll be destroyed for sure."
+3,163440,164873,This is madness.
+4,174560,175913,We're doomed.
+5,178240,180356,"There'll be no escape
+for the princess this time."
+6,183600,184953,What's that?
+7,283120,285475,"R2-D2, where are you?"
+8,301400,303709,"At last.
+Where have you been?"
+9,303840,306798,"They're heading in this direction.
+What are we going to do?"
+10,306920,310230,"We'll be sent to the Kessel spice mines
+or smashed into who knows what."
+11,311360,313237,"Wait a minute.
+Where are you going?"
+12,325400,328233,"The Death Star plans
+are not in the main computer."
+13,328960,330871,"Where are those transmissions
+you intercepted?"
+14,331000,333673,"What have you done
+with those plans?"
+15,333800,335677,We intercepted no transmissions.
+16,336640,340428,"This is a consular ship.
+We're on a diplomatic mission."
+17,340560,344917,"If this is a consular ship,
+where is the ambassador?"
+18,348280,351636,"Commander, tear this ship apart
+until you've found those plans!"
+19,351760,354513,"And bring me the passengers!
+I want them alive!"
+20,366560,367993,"There's one.
+Set for stun."
+21,373520,375078,She'll be all right.
+22,375200,376997,Inform Lord Vader we have a prisoner.
+23,378560,380915,"Hey. You're not permitted in there.
+It's restricted."
+24,381040,382871,You'll be deactivated for sure.
+25,384800,387268,"Don't call me a mindless philosopher,
+you overweight glob of grease."
+26,387400,388958,"Come out,
+before somebody sees you."
+27,391280,393350,Secret mission? What plans?
+28,393480,395914,"What are you talking about?
+I'm not getting in there."
+29,399200,401316,I'm going to regret this.
+30,408200,411351,"- There goes another one.
+- Hold your fire. There's no life forms."
+31,411480,412708,It must have short-circuited.
+32,412840,415991,"That's funny. The damage
+doesn't look as bad from out here."
+33,418280,420157,Are you sure this thing is safe?
+34,438360,440715,"Darth Vader.
+Only you could be so bold."
+35,440840,443115,"The Imperial Senate will not
+sit still for this."
+36,443240,446357,"- You've attacked a diplomatic--
+- Don't act so surprised, Your Highness."
+37,446480,448277,"You weren't on
+any mercy mission this time."
+38,448400,452313,"Several transmissions
+were beamed to this ship by rebel spies."
+39,452440,455159,"I want to know what happened
+to the plans they sent you."
+40,455280,457191,"I don't know what
+you're talking about."
+41,457320,460153,"I'm a member of the Imperial Senate
+on a diplomatic mission to Alderaan."
+42,460280,462999,"You are part of the Rebel Alliance
+and a traitor."
+43,463120,464951,Take her away!
+44,469160,471469,"Holding her is dangerous.
+If word gets out..."
+45,471600,474034,"it could generate sympathy
+for the rebellion in the senate."
+46,474160,476390,I have traced the rebel spies to her.
+47,476520,479080,"Now she is my only link
+to finding their secret base."
+48,479200,480997,"She'll die before
+she'll tell you anything."
+49,481120,482678,Leave that to me.
+50,482800,486110,"Send a distress signal, and then inform
+the senate that all aboard were killed."
+51,486240,489198,"Lord Vader, the battle station plans
+are not aboard this ship..."
+52,489320,490673,and no transmissions were made.
+53,490800,494793,"An escape pod was jettisoned during the
+fighting, but no life forms were aboard."
+54,494920,497753,"She must have hidden
+the plans in the escape pod."
+55,497880,501270,"Send a detachment down to retrieve them.
+See to it personally, Commander."
+56,501400,503356,"There'll be no one
+to stop us this time."
+57,503480,504913,"Yes, sir."
+58,518920,520876,How did we get into this mess?
+59,521000,523230,I really don't know how.
+60,523960,527032,"We seem to be made to suffer.
+It's our lot in life."
+61,529560,532996,"I've got to rest before I fall apart.
+My joints are almost frozen."
+62,539760,541671,What a desolate place this is.
+63,545840,547717,Where do you think you're going?
+64,547840,551276,"Well, I'm not going that way.
+It's much too rocky."
+65,551960,553757,This way is much easier.
+66,553880,556155,"What makes you think
+there are settlements over there?"
+67,557880,559472,Don't get technical with me.
+68,560800,562711,"What mission?
+What are you talking about?"
+69,564560,566949,I've just about had enough of you.
+70,567680,568908,Go that way.
+71,569040,571838,"You'll be malfunctioning within a day,
+you nearsighted scrap pile."
+72,572560,574994,"And don't let me catch you
+following me, begging for help..."
+73,575120,577156,because you won't get it.
+74,589800,591392,No more adventures.
+75,591520,593397,I'm not going that way.
+76,625960,628758,"That malfunctioning little twerp.
+This is all his fault."
+77,629800,631870,"He tricked me
+into going this way..."
+78,632000,633797,but he'll do no better.
+79,636960,638951,Wait. What's that?
+80,639080,641674,A transport. I'm saved.
+81,641800,643438,Over here!
+82,643560,644595,Hey!
+83,644720,646039,Hey!
+84,646160,649436,Help! Please help!
+85,851360,852236,R2?
+86,856360,859750,"R2-D2, it is you! It is you!"
+87,892000,895037,"Someone was in the pod.
+The tracks go off in this direction."
+88,896040,897871,"Look, sir. Droids."
+89,911720,913199,We stopped.
+90,913320,914958,Wake up. Wake up!
+91,921680,923193,We're doomed.
+92,931080,933116,"Do you think
+they'll melt us down?"
+93,945360,947351,"Don't shoot.
+Don't shoot."
+94,947480,949596,Will this never end?
+95,987600,990034,"- Fine. Let's go.
+- Luke!"
+96,990160,991559,Luke!
+97,994880,999715,"Luke, tell Uncle if he gets
+a translator, be sure it speaks Bocce."
+98,999840,1002195,"Doesn't look like we have
+much choice, but I'll remind him."
+99,1012920,1014990,"Yeah, we'll take that red one."
+100,1015120,1016951,"No, not that one."
+101,1018600,1021512,"I suppose you're programmed
+for etiquette and protocol."
+102,1021640,1025428,"Protocol? It's my primary function, sir.
+I am well-versed in all the customs--"
+103,1025560,1028711,"- I have no need for a protocol droid.
+- Of course you haven't, sir."
+104,1028840,1031434,"Not in an environment such as this.
+That's why I have been programmed--"
+105,1031560,1035394,"I need a droid who understands the
+binary language of moisture vaporators."
+106,1035520,1038637,"Vaporators? Sir, my first job
+was programming binary load lifters..."
+107,1038760,1039480,"very similar to your vaporators
+in most respects."
+108,1039480,1040799,"very similar to your vaporators
+in most respects."
+109,1040920,1044276,"-Can you speak Bocce?
+-Of course. It's like a second language."
+110,1044400,1046960,"-All right. Shut up. I'll take this one.
+-Shutting up, sir."
+111,1049840,1052400,"Take these two to the garage.
+I want them cleaned up before dinner."
+112,1052520,1055318,"But I was going into Tosche Station
+to pick up some power converters."
+113,1055440,1058318,"You can waste time with your friends
+when your chores are done."
+114,1058440,1060317,"Now come on.
+Get to it."
+115,1061360,1062475,All right. Come on.
+116,1065120,1067190,"And the red one.
+Come on."
+117,1068200,1070589,"Come on, red. Let's go."
+118,1088680,1090716,"- Uncle Owen.
+- Yeah?"
+119,1090840,1093434,"This R2 unit has
+a bad motivator. Look."
+120,1093560,1095835,"Hey, what are you
+trying to push on us?"
+121,1098760,1103470,"Excuse me, sir, but that R2 unit
+is in prime condition, a real bargain."
+122,1103600,1105397,"Uncle Owen,
+what about that one?"
+123,1105520,1107988,"What about that blue one?
+We'll take that one."
+124,1109240,1111959,"- Take this away.
+- You'll be pleased with that one, sir."
+125,1112080,1113877,He really is in first-class condition.
+126,1114000,1115877,"I've worked with him before.
+Here he comes."
+127,1119960,1121359,Let's go.
+128,1121480,1123038,Don't you forget this.
+129,1123160,1126470,"Why I should stick my neck out for you
+is quite beyond my capacity."
+130,1132760,1135832,"Thank the maker.
+This oil bath is going to feel so good."
+131,1137320,1140710,"I've got such a bad case of dust
+contamination I can barely move."
+132,1140840,1142717,It just isn't fair.
+133,1142840,1145115,"Biggs is right.
+I'm never gonna get out of here."
+134,1145800,1147597,"Is there anything
+I might do to help?"
+135,1147720,1150757,"No, not unless you can alter time,
+speed up the harvest..."
+136,1150880,1152438,or teleport me off this rock.
+137,1152560,1154039,"I don't think so, sir."
+138,1154160,1157596,"I'm only a droid and not very
+knowledgeable about such things."
+139,1157720,1158948,"Not on this planet, anyway."
+140,1159080,1162311,"As a matter of fact,
+I'm not even sure which planet I'm on."
+141,1162440,1164670,"Well, if there's a bright centre
+to the universe..."
+142,1164800,1166677,"you're on the planet
+that it's farthest from."
+143,1166800,1168631,"I see, sir."
+144,1169320,1171595,"- You can call me Luke.
+- I see, Sir Luke."
+145,1173000,1174353,Just Luke.
+146,1175040,1178032,"And I am C-3PO,
+human-cyborg relations."
+147,1178160,1180674,"This is my counterpart, R2-D2."
+148,1180800,1182199,Hello.
+149,1183400,1186676,"A lot of carbon scoring here.
+Looks like you've seen a lot of action."
+150,1186800,1190156,"With all we've been through, I'm amazed
+we're in as good condition as we are..."
+151,1190280,1191838,with the rebellion and all.
+152,1191960,1193791,"You know of the rebellion
+against the Empire?"
+153,1193920,1197151,"That's how we came to be in your
+service, if you take my meaning, sir."
+154,1197280,1199475,"- Have you been in many battles?
+- Several, I think."
+155,1199600,1201397,There's not much to tell.
+156,1201520,1204910,"I'm not much more than an interpreter
+and not very good at telling stories."
+157,1205040,1207429,"Well, not at making them
+interesting, anyway."
+158,1208160,1209957,"Well, my little friend..."
+159,1210080,1212275,"you got something jammed
+in here real good."
+160,1212400,1214277,Were you on a Starcruiser or--
+161,1214400,1217312,"Help me, Obi-Wan Kenobi.
+You're my only hope."
+162,1217440,1218953,What's this?
+163,1219080,1222038,"""What is what''?
+He asked you a question. What is that?"
+164,1222160,1225914,"Help me, Obi-Wan Kenobi.
+You're my only hope."
+165,1229240,1232949,"Help me, Obi-Wan Kenobi.
+You're my only hope."
+166,1235040,1237759,"He says it's nothing, sir,
+merely a malfunction."
+167,1237880,1239598,Old data. Pay it no mind.
+168,1239720,1241676,"Who is she?
+She's beautiful."
+169,1241800,1244997,"I'm afraid I'm not quite sure, sir."
+170,1245120,1247156,"I think she was a passenger
+on our last voyage."
+171,1247280,1249157,"A person of some importance,
+I believe."
+172,1249280,1251555,"- Our captain was--
+- Is there any more to this recording?"
+173,1253520,1256671,"Behave yourself, R2.
+You're going to get us into trouble."
+174,1256800,1259439,"It's all right. You can trust him.
+He's our new master."
+175,1259560,1261118,You're my only hope.
+176,1262120,1266875,"He says he's the property of Obi-Wan
+Kenobi, a resident of these parts..."
+177,1267000,1268672,and it's a private message for him.
+178,1268800,1270711,"Frankly, I don't know
+what he's talking about."
+179,1270840,1272717,"Our last master
+was Captain Antilles."
+180,1272840,1277277,"But with all we've been through,
+this R2 unit has become a bit eccentric."
+181,1277400,1280392,"Obi-Wan Kenobi.
+I wonder if he means old Ben Kenobi."
+182,1280520,1283034,"I beg your pardon, sir, but do you
+know what he's talking about?"
+183,1283160,1285469,"I don't know anyone
+named Obi-Wan..."
+184,1286280,1288316,"but old Ben lives
+out beyond the Dune Sea."
+185,1288440,1290112,He's kind of a strange old hermit.
+186,1291320,1293117,I wonder who she is.
+187,1293240,1296596,"Sounds like she's in trouble.
+I better play back the whole thing."
+188,1299600,1302751,"He says the restraining bolt has
+short-circuited his recording system."
+189,1302880,1305553,"He suggests that
+if you remove the bolt..."
+190,1305680,1308274,"he might be able to play back
+the entire recording."
+191,1308400,1310391,"Oh, yeah. Well..."
+192,1310520,1313830,"I guess you're too small
+to run away on me if I take this off."
+193,1313960,1315075,Okay.
+194,1317880,1319393,There you go.
+195,1320920,1323878,"Where'd she go? Bring her back.
+Play back the entire message."
+196,1324560,1326118,"""What message''?"
+197,1326240,1328071,The one you've just been playing.
+198,1328200,1330156,"The one you're carrying
+inside your rusty innards."
+199,1330280,1331918,Luke! Luke!
+200,1332040,1334429,"I'll be right there, Aunt Beru."
+201,1334560,1337233,"I'm sorry, sir, but he appears to have
+picked up a slight flutter."
+202,1337360,1340591,"Here. See what you can do with him.
+I'll be right back."
+203,1343240,1345913,"Just you reconsider
+playing that message for him."
+204,1347040,1349270,"No, I don't think
+he likes you at all."
+205,1349400,1351630,"No, I don't like you either."
+206,1360080,1363709,"- That R2 unit might have been stolen.
+- What makes you think that?"
+207,1363840,1366638,"I stumbled across a recording
+while I was cleaning him."
+208,1366760,1369069,"He says he belongs to someone
+called Obi-Wan Kenobi."
+209,1371400,1374756,"I thought he might have meant old Ben.
+Do you know what he's talking about?"
+210,1376800,1378870,I wonder if he's related to Ben.
+211,1379080,1380672,That wizard's just a crazy old man.
+212,1382200,1385590,"Tomorrow, take that R2 unit to
+Anchorhead and have its memory erased."
+213,1385720,1387551,"That'll be the end of it.
+It belongs to us now."
+214,1389240,1391754,"But what if this Obi-Wan
+comes looking for him?"
+215,1391880,1392869,He won't.
+216,1394240,1397676,"I don't think he exists any more. He died
+about the same time as your father."
+217,1397800,1400712,"- He knew my father?
+- I told you to forget it."
+218,1401880,1404713,"Your only concern is to prepare
+those new droids for tomorrow."
+219,1405400,1408597,"In the morning, I want them on the
+south ridge working on those condensers."
+220,1409280,1410679,"Yes, sir."
+221,1411800,1414360,"I think those new droids
+are gonna work out fine."
+222,1414480,1417677,"In fact, I was also thinking
+about our agreement--"
+223,1417800,1419870,"about me staying on
+another season."
+224,1421800,1424917,"If these new droids work out, I want
+to apply to the academy this year."
+225,1425880,1427677,"You mean the next semester
+before the harvest?"
+226,1427800,1429518,"Sure. There's more
+than enough droids."
+227,1429640,1431551,Harvest is when I need you the most.
+228,1431680,1433591,It's only one season more.
+229,1433720,1436712,"This year we'll make enough
+on the harvest to hire more hands..."
+230,1436840,1439035,"and then you can go
+to the academy next year."
+231,1439920,1441831,"You must understand
+I need you here, Luke."
+232,1441960,1444713,"- But it's a whole 'nother year.
+- It's only one more season."
+233,1444840,1446796,"That's what you said
+when Biggs and Tank left."
+234,1446920,1449275,"- Where are you going?
+- Looks like I'm going nowhere."
+235,1449400,1451072,"I have to go finish
+cleaning those droids."
+236,1451200,1454397,"Owen, he can't stay here forever.
+Most of his friends have gone."
+237,1454520,1456431,It means so much to him.
+238,1457120,1459395,"I'll make it up to him next year.
+I promise."
+239,1461080,1464789,"Luke's just not a farmer, Owen.
+He has too much of his father in him."
+240,1464920,1467195,That's what I'm afraid of.
+241,1514200,1517192,"- What are you doing hiding back there?
+- It wasn't my fault, sir."
+242,1517320,1518992,Please don't deactivate me.
+243,1519120,1521634,"I told him not to go,
+but he's faulty, malfunctioning."
+244,1521760,1524797,"- Kept babbling on about his mission.
+- Oh, no."
+245,1533000,1535230,"That R2 unit
+has always been a problem."
+246,1535360,1537828,"These astrodroids
+are getting quite out of hand."
+247,1537960,1540076,"Even I can't understand
+their logic at times."
+248,1540200,1542555,"How could I be so stupid?
+He's nowhere in sight."
+249,1543240,1546357,"- Blast it.
+- Couldn't we go after him?"
+250,1546480,1549517,"It's too dangerous with the Sandpeople
+around. We'll have to wait till morning."
+251,1549640,1551517,"Luke, I'm shutting
+the power down."
+252,1551640,1553471,I'll be there in a few minutes.
+253,1554160,1555991,"Boy, am I gonna get it."
+254,1556680,1560468,"-That droid's gonna cause me trouble.
+-He excels at that, sir."
+255,1561600,1562999,Come on.
+256,1582280,1584077,Have you seen Luke this morning?
+257,1584200,1587431,"He said he had things to do before
+he started today, so he left early."
+258,1587560,1590472,"- Did he take those new droids with him?
+- I think so."
+259,1591160,1593833,"He better have those units in
+the south range repaired by midday..."
+260,1593960,1595518,or there'll be hell to pay.
+261,1596520,1598954,"There's a droid on the scanner.
+Dead ahead."
+262,1599080,1601913,"It might be our little R2 unit.
+Hit the accelerator."
+263,1623480,1625391,Where do you think you're going?
+264,1626320,1628117,"Master Luke is your
+rightful owner now."
+265,1628240,1631073,"We'll have no more
+of this Obi-Wan Kenobi gibberish."
+266,1632240,1633798,Don't talk to me of your mission.
+267,1633920,1636912,"You're fortunate he doesn't blast you
+into a million pieces right here."
+268,1637040,1639349,"No. It's all right,
+but I think we'd better go."
+269,1640360,1642191,What's wrong with him now?
+270,1642320,1644993,"There are several creatures
+approaching from the southeast."
+271,1645120,1647031,Sandpeople. Or worse.
+272,1648400,1650311,"Come on.
+Let's go have a look."
+273,1650440,1651839,Come on.
+274,1655240,1657708,"There are two Banthas down there,
+but I don't see any--"
+275,1657840,1659512,Wait a second.
+276,1659640,1662313,"They're Sandpeople all right.
+I can see one of them now."
+277,1733960,1735075,Hello there.
+278,1737400,1740517,"Come here, my little friend.
+Don't be afraid."
+279,1743160,1744752,"Don't worry.
+He'll be all right."
+280,1750760,1753149,"Rest easy, son.
+You've had a busy day."
+281,1754000,1756798,"You're fortunate
+to be all in one piece."
+282,1759960,1762030,Ben? Ben Kenobi?
+283,1762160,1764037,"Boy, am I glad to see you."
+284,1764160,1767038,"The Jundland Wastes
+are not to be travelled lightly."
+285,1770160,1773470,"Tell me, young Luke,
+what brings you out this far?"
+286,1774240,1775719,This little droid.
+287,1777720,1779199,"He's searching
+for his former master..."
+288,1779320,1781311,"but I've never seen
+such devotion in a droid."
+289,1783360,1786272,"He claims to be the property
+of an Obi-Wan Kenobi."
+290,1786400,1789233,"Is he a relative of yours?
+Do you know who he's talking about?"
+291,1790400,1791913,Obi-Wan Kenobi?
+292,1794280,1795679,Obi-Wan.
+293,1796600,1800388,"Now, that's a name
+I've not heard in a long time."
+294,1801160,1802832,A long time.
+295,1804040,1806793,"I think my uncle knows him.
+He said he was dead."
+296,1806920,1808512,He's not dead.
+297,1808640,1809755,Not yet.
+298,1809880,1812713,"- You know him?
+- Of course I know him."
+299,1812840,1814114,He's me.
+300,1816760,1819832,"I haven't gone
+by the name of Obi-Wan..."
+301,1819960,1822474,"since, oh, before you were born."
+302,1822600,1824113,Then the droid does belong to you.
+303,1824240,1826754,"I don't seem to remember
+ever owning a droid."
+304,1828560,1829959,Very interesting.
+305,1831960,1833757,I think we better get indoors.
+306,1834440,1837000,The Sandpeople are easily startled...
+307,1837120,1839759,"but they'll soon be back--
+and in greater numbers."
+308,1842760,1843795,3PO.
+309,1852880,1855394,"Where am I?
+I must have taken a bad step."
+310,1856840,1859912,"Can you stand? We've gotta get out
+of here before the Sandpeople return."
+311,1860040,1862634,"I don't think I can make it.
+You go on, Master Luke."
+312,1862760,1866594,"There's no sense in you risking
+yourself on my account. I'm done for."
+313,1867640,1869437,"No, you're not.
+What kind of talk is that?"
+314,1869560,1871357,Quickly. They're on the move.
+315,1876480,1879677,"My father didn't fight in the wars.
+He was a navigator on a spice freighter."
+316,1879800,1883349,"That's what your uncle told you. He
+didn't hold with your father's ideals."
+317,1883480,1886438,"Thought he should have stayed here
+and not gotten involved."
+318,1887160,1889355,"- You fought in the Clone Wars?
+- Yes."
+319,1889480,1892950,"I was once a Jedi knight,
+the same as your father."
+320,1895440,1897078,I wish I'd known him.
+321,1897200,1899794,"He was the best
+starpilot in the galaxy..."
+322,1900680,1902477,and a cunning warrior.
+323,1902600,1904989,"I understand you've become
+quite a good pilot yourself."
+324,1907160,1909435,And he was a good friend.
+325,1909560,1910913,Which reminds me...
+326,1912120,1913997,I have something here for you.
+327,1915960,1918428,"Your father wanted you to have this
+when you were old enough..."
+328,1918560,1921074,but your uncle wouldn't allow it.
+329,1921960,1923951,"He feared you might
+follow old Obi-Wan..."
+330,1924080,1927356,"on some damn-fool idealistic crusade,
+like your father did."
+331,1927480,1930278,"Sir, if you'll not be needing me,
+I'll close down for a while."
+332,1930400,1931879,Go ahead.
+333,1934480,1937711,"- What is it?
+- It's your father's lightsabre."
+334,1938560,1940949,This is the weapon of a Jedi knight.
+335,1941080,1943753,"Not as clumsy or random
+as a blaster."
+336,1944760,1946876,An elegant weapon...
+337,1947000,1949833,for a more civilized age.
+338,1951680,1953636,For over a thousand generations...
+339,1953760,1957799,"the Jedi knights were the guardians of
+peace and justice in the old Republic..."
+340,1957920,1960514,before the dark times...
+341,1960640,1962232,before the Empire.
+342,1965160,1966957,How did my father die?
+343,1969400,1971789,Ayoung Jedi named Darth Vader...
+344,1971920,1974309,"who was a pupil of mine
+until he turned to evil..."
+345,1975120,1978271,"helped the Empire hunt down
+and destroy the Jedi knights."
+346,1980040,1982315,He betrayed and murdered your father.
+347,1984040,1986190,Now the Jedi are all but extinct.
+348,1987440,1990989,"Vader was seduced
+by the dark side of the Force."
+349,1991120,1992553,The Force?
+350,1993880,1996189,"The Force is
+what gives a Jedi his power."
+351,1996880,1999917,"It's an energy field
+created by all living things."
+352,2000040,2002156,It surrounds us and penetrates us.
+353,2002280,2003872,It binds the galaxy together.
+354,2010680,2013114,"Let's see if we can't figure out
+what you are, little friend..."
+355,2014360,2016316,and where you come from.
+356,2016440,2019432,"- I saw part of a message--
+- I seem to have found it."
+357,2019560,2023678,"General Kenobi, years ago you served
+my father in the Clone Wars."
+358,2023800,2027076,"Now he begs you to help him
+in his struggle against the Empire."
+359,2027200,2030158,"I regret that I am unable to present
+my father's request in person."
+360,2030280,2032111,"But my ship
+has fallen under attack..."
+361,2032240,2034310,"and my mission
+to bring you to Alderaan has failed."
+362,2034440,2037557,"I have placed information vital
+to the survival of the rebellion..."
+363,2037680,2039636,"into the memory systems
+of this R2 unit."
+364,2039760,2041478,"My father will know
+how to retrieve it."
+365,2042280,2045272,"You must see this droid
+safely delivered to him on Alderaan."
+366,2046120,2048395,This is our most desperate hour.
+367,2048520,2051432,"Help me, Obi-Wan Kenobi.
+You're my only hope."
+368,2065840,2069719,"You must learn the ways of the Force
+if you're to come with me to Alderaan."
+369,2069840,2071193,Alderaan?
+370,2071320,2073151,I'm not going to Alderaan.
+371,2073280,2075396,"I've gotta get home.
+I'm in for it as it is."
+372,2075520,2077829,"I need your help, Luke.
+She needs your help."
+373,2077960,2080918,"I'm getting too old
+for this sort of thing."
+374,2085400,2088551,"I can't get involved.
+I've got work to do."
+375,2089400,2091118,"It's not that I like the Empire.
+I hate it."
+376,2091240,2093754,"But there's nothing
+I can do about it right now."
+377,2095160,2098470,"- It's all such a long way from here.
+- That's your uncle talking."
+378,2098600,2102275,"Oh, boy. My uncle.
+How am I ever gonna explain this?"
+379,2102400,2104709,"Learn about the Force, Luke."
+380,2110920,2112990,"I can take you
+as far as Anchorhead."
+381,2113680,2116877,"You can get a transport there
+to Mos Eisley or wherever you're going."
+382,2118120,2120953,"You must do what you feel
+is right, of course."
+383,2128240,2131676,"Until this battle station is fully
+operational, we are vulnerable."
+384,2131800,2133836,"The Rebel Alliance
+is too well equipped."
+385,2133960,2135757,"They're more dangerous
+than you realize."
+386,2135880,2138633,"Dangerous to your starfleet,
+Commander..."
+387,2138760,2140352,not to this battle station.
+388,2140480,2143916,"The rebellion will continue to
+gain support in the Imperial Senate--"
+389,2144040,2147555,"The Imperial Senate will no longer
+be of any concern to us."
+390,2148320,2152233,"I've just received word that the emperor
+has dissolved the council permanently."
+391,2152360,2155830,"The last remnants of the old Republic
+have been swept away."
+392,2156520,2157839,That's impossible.
+393,2157960,2160110,"How will the emperor maintain control
+without the bureaucracy?"
+394,2160240,2164552,"The regional governors now have
+direct control over their territories."
+395,2165280,2168750,"Fear will keep
+the local systems in line."
+396,2168880,2172077,"- Fear of this battle station.
+- And what of the rebellion?"
+397,2172200,2175272,"If the rebels have obtained a complete
+technical readout of this station..."
+398,2175400,2177231,"it is possible,
+however unlikely..."
+399,2177360,2179351,"that they might find a weakness
+and exploit it."
+400,2180120,2183510,"The plans you refer to will
+soon be back in our hands."
+401,2183640,2187713,"Any attack by the rebels against this
+station would be a useless gesture..."
+402,2187840,2189717,"no matter what technical data
+they've obtained."
+403,2189840,2193276,"This station is now
+the ultimate power in the universe."
+404,2194040,2195598,I suggest we use it.
+405,2195720,2199759,"Don't be too proud of this
+technological terror you've constructed."
+406,2199880,2203111,"The ability to destroy a planet
+is insignificant..."
+407,2203240,2204958,next to the power of the Force.
+408,2205080,2208356,"Don't try to frighten us with
+your sorcerer's ways, Lord Vader."
+409,2208480,2210994,"Your sad devotion
+to that ancient religion..."
+410,2211120,2213759,"has not helped you conjure up
+the stolen data tapes..."
+411,2213880,2217759,"or given you clairvoyance enough
+to find the rebels' hidden fortress--"
+412,2224360,2226351,I find your lack of faith disturbing.
+413,2228320,2230880,"Enough of this.
+Vader, release him."
+414,2231000,2232353,As you wish.
+415,2234520,2236476,This bickering is pointless.
+416,2237640,2241155,"Lord Vader will provide us with
+the location of the rebel fortress..."
+417,2241280,2243236,"by the time this station
+is operational."
+418,2243920,2246912,"We will then crush the rebellion
+with one swift stroke."
+419,2254600,2257672,"It looks like the Sandpeople did this.
+There's gaffi sticks, Bantha tracks."
+420,2257800,2260314,"I've just never heard of them
+hitting anything this big before."
+421,2260440,2263591,"They didn't, but we are
+meant to think they did."
+422,2263720,2265517,These tracks are side-by-side.
+423,2265640,2269599,"Sandpeople always ride single file
+to hide their numbers."
+424,2269720,2272439,"These are the same Jawas
+that sold us R2 and 3PO."
+425,2272560,2276553,"And these blast points,
+too accurate for Sandpeople."
+426,2277240,2280949,"Only imperial stormtroopers
+are so precise."
+427,2281080,2283435,"But why would imperial troops
+want to slaughter Jawas?"
+428,2288720,2291553,"If they traced the robots here, they may
+have learned who they sold them to..."
+429,2291680,2293557,"and that would lead
+them back... home."
+430,2293680,2294874,"Wait, Luke."
+431,2295000,2296877,It's too dangerous.
+432,2320040,2321314,Uncle Owen.
+433,2321440,2322714,Aunt Beru.
+434,2373280,2376033,"Now, Your Highness,
+we will discuss the location..."
+435,2376160,2378594,of your hidden rebel base.
+436,2419720,2422075,"There's nothing you could have done,
+had you been there."
+437,2422920,2424717,You'd have been killed too...
+438,2424840,2427400,"and the droids would now be
+in the hands of the Empire."
+439,2429160,2431037,I want to come with you to Alderaan.
+440,2431800,2433677,There's nothing for me here now.
+441,2433800,2436633,"I want to learn the ways of the Force
+and become a Jedi like my father."
+442,2451760,2453955,Mos Eisley spaceport.
+443,2454080,2458631,"You will never find a more wretched hive
+of scum and villainy."
+444,2459560,2461437,We must be cautious.
+445,2500680,2502477,"How long have you
+had these droids?"
+446,2502600,2505592,"- Three or four seasons.
+- They're up for sale if you want them."
+447,2505720,2507472,Let me see your identification.
+448,2507600,2510751,"You don't need to see
+his identification."
+449,2510880,2513110,"We don't need to see
+his identification."
+450,2513240,2515629,"These aren't the droids
+you're looking for."
+451,2515760,2517591,"These aren't the droids
+we're looking for."
+452,2518760,2520990,He can go about his business.
+453,2521120,2524192,"- You can go about your business.
+- Move along."
+454,2524320,2525469,Move along.
+455,2542440,2545432,"I can't abide those Jawas.
+Disgusting creatures."
+456,2546440,2548271,"Go on, go on."
+457,2549600,2552672,"I can't understand how we got by
+those troops. I thought we were dead."
+458,2552800,2556918,"The Force can have a strong influence
+on the weak-minded."
+459,2560080,2562992,"You really think we're gonna find
+a pilot here to take us to Alderaan?"
+460,2563120,2565918,"Most of the best freighter pilots
+are to be found here."
+461,2566040,2569669,"Only watch your step--
+this place can be a little rough."
+462,2569800,2571836,I'm ready for anything.
+463,2575200,2576997,"Come along, R2."
+464,2625000,2628310,"- Hey. We don't serve their kind here.
+- What?"
+465,2628440,2631238,"Your droids-- they'll have to wait
+outside. We don't want them here."
+466,2631360,2633669,"Wait out by the speeder.
+We don't want any trouble."
+467,2633800,2635677,"I heartily agree with you, sir."
+468,2644960,2646837,I'll have one of those.
+469,2680160,2682720,"- He doesn't like you.
+- I'm sorry."
+470,2684680,2688036,"I don't like you either.
+You just watch yourself."
+471,2688160,2692517,"We're wanted men.
+I have the death sentence on 12 systems."
+472,2692640,2695313,"- I'll be careful then.
+- You'll be dead."
+473,2695440,2697271,"This little one's
+not worth the effort."
+474,2698440,2700317,"Come, let me get you something."
+475,2726080,2727957,I'm all right.
+476,2729240,2733119,"Chewbacca here is first mate
+on a ship that might suit us."
+477,2737880,2739791,I don't like the look of this.
+478,2754040,2757430,"Han Solo. I'm captain
+of the Millennium Falcon."
+479,2757560,2760597,"Chewie here tells me you're looking
+for passage to the Alderaan system."
+480,2760720,2762915,"Yes, indeed,
+if it's a fast ship."
+481,2763040,2766635,"Fast ship? You've never heard of
+the Millennium Falcon?"
+482,2766760,2768273,Should I have?
+483,2768400,2771392,"It's the ship that made the Kessel run
+in less than 12 parsecs."
+484,2773360,2775510,I've outrun imperial starships.
+485,2775640,2777517,"Not the local bulk cruisers,
+mind you."
+486,2777640,2779676,"I'm talking about
+the big Corellian ships now."
+487,2781440,2783351,"She's fast enough for you,
+old man."
+488,2784400,2787153,"- What's the cargo?
+- Only passengers--"
+489,2787280,2789953,"myself, the boy, two droids..."
+490,2791080,2792877,and no questions asked.
+491,2794120,2795872,Is it some kind of local trouble?
+492,2796000,2800915,"Let's just say we'd like to avoid
+any imperial entanglements."
+493,2802360,2804954,"Well, that's the real trick, isn't it?"
+494,2805080,2806911,"And it's gonna cost you
+something extra."
+495,2808680,2810318,"10,000, all in advance."
+496,2812040,2813234,"10,000?"
+497,2814520,2816954,"We could almost
+buy our own ship for that."
+498,2817080,2819196,"But who's gonna fly it, kid? You?"
+499,2819320,2821276,"You bet I could.
+I'm not such a bad pilot."
+500,2821400,2823675,"We don't have
+to sit here and listen--"
+501,2823800,2826519,"We can pay you 2,000 now..."
+502,2826640,2829757,plus 15 when we reach Alderaan.
+503,2830520,2831589,Seventeen?
+504,2835200,2837350,"Okay, you guys
+got yourselves a ship."
+505,2837480,2839835,"We'll leave as soon as you're ready.
+Docking Bay 94."
+506,2839960,2841029,Ninety-four.
+507,2842600,2845910,"Looks like somebody's beginning
+to take an interest in your handiwork."
+508,2847400,2849391,All right. We'll check it out.
+509,2860840,2864116,"17,000. Those guys
+must really be desperate."
+510,2864240,2867516,"This could really save my neck.
+Get back to the ship, get it ready."
+511,2868600,2870511,"- You'll have to sell your speeder.
+- That's okay."
+512,2870640,2872551,"I'm never coming back
+to this planet again."
+513,2873640,2875995,"Going somewhere, Solo?"
+514,2876120,2879032,"Yes, Greedo. As a matter of fact,
+I was just going to see your boss."
+515,2879160,2881196,"Tell Jabba that
+I've got his money."
+516,2881320,2883117,It's too late.
+517,2883240,2885515,"You should have paid him
+when you had the chance."
+518,2885640,2888916,"Jabba's put a price on your head
+so large..."
+519,2889040,2891838,"every bounty hunter in the galaxy
+will be looking for you."
+520,2891960,2893837,I'm lucky I found you first.
+521,2893960,2896030,"Yeah, but this time
+I've got the money."
+522,2896160,2899550,"If you give it to me,
+I might forget I found you."
+523,2899680,2902831,"I don't have it with me.
+Tell Jabba--"
+524,2902960,2905315,Jabba's through with you.
+525,2905440,2907829,He has no time for smugglers...
+526,2907960,2910474,"who drop their shipments at
+the first sign of an imperial cruiser."
+527,2910600,2914149,"Even I get boarded sometimes.
+Do you think I had a choice?"
+528,2914280,2918193,"You can tell that to Jabba.
+He may only take your ship."
+529,2918320,2920390,Over my dead body.
+530,2920520,2921589,That's the idea.
+531,2921720,2925508,"I've been looking forward to this
+for a long time."
+532,2925640,2926868,I'll bet you have.
+533,2940840,2942876,Sorry about the mess.
+534,2951400,2954278,"Her resistance to the mind probe
+is considerable."
+535,2954400,2957676,"It'll be some time before we can
+extract any information from her."
+536,2957800,2961190,"The final checkout is completed.
+All systems are operational."
+537,2961320,2963390,What course shall we set?
+538,2963520,2966751,"Perhaps she would respond
+to an alternative form of persuasion."
+539,2966880,2968393,What do you mean?
+540,2968520,2971318,"I think it is time we demonstrated
+the full power of this station."
+541,2971440,2973795,"- Set your course for Alderaan.
+- With pleasure."
+542,2974960,2976871,"Lock the door, R2."
+543,2978920,2980797,Check this side of the street.
+544,2984840,2987274,"The door's locked.
+Move on to the next one."
+545,2993640,2996473,"I would much rather have gone with
+Master Luke than stay here with you."
+546,2997240,3000516,"I don't know what this trouble is about,
+but I'm sure it must be your fault."
+547,3001320,3002753,Watch your language.
+548,3004760,3007149,"All right. Give it to me.
+I'll take it."
+549,3008000,3011390,"Look at this. Ever since the XP-38
+came out, they just aren't in demand."
+550,3011520,3013192,It'll be enough.
+551,3031080,3033992,"Solo! Come out of there, Solo!"
+552,3035280,3037157,"Right here,Jabba."
+553,3038360,3039793,I've been waitin' for you.
+554,3039920,3041751,Have you now.
+555,3043560,3045596,"You didn't think I was
+gonna run, did you?"
+556,3046280,3050512,"Han, my boy, you disappoint me."
+557,3050640,3052596,Why haven't you paid me...
+558,3052720,3055951,and why did you fry poor Greedo?
+559,3056080,3060153,"Jabba, next time you wanna talk to me,
+come yourself. Don't send these twerps."
+560,3060280,3063636,"Han, I can't make exceptions."
+561,3063760,3066479,"What if everyone
+who smuggled for me..."
+562,3066600,3069034,"dropped their cargo
+at the first sign..."
+563,3069160,3071674,of an imperial starship?
+564,3071800,3073597,It's not good business.
+565,3073720,3076951,"Look,Jabba,
+even I get boarded sometimes."
+566,3078200,3080509,You think I had a choice?
+567,3080640,3082312,"But I got a nice, easy charter."
+568,3082440,3086319,"I'll pay ya back, plus a little extra.
+I just need a little more time."
+569,3086440,3091753,"Han, my boy, you're the best."
+570,3091880,3094110,"So, for an extra 20% --"
+571,3094240,3096117,"Fifteen,Jabba.
+Don't push it."
+572,3096240,3098196,"Okay, 15% ."
+573,3098320,3100356,But if you fail me again...
+574,3100480,3103278,I'll put a price on your head so big...
+575,3103400,3107393,"you won't be able to go near
+a civilized system."
+576,3107520,3110159,"Jabba, you're a wonderful
+human being."
+577,3111600,3112669,Come on!
+578,3118440,3121910,"If the ship's as fast as he's boasting,
+we ought to do well."
+579,3144680,3146477,What a piece of junk.
+580,3146600,3148989,She'll make .5 past light speed.
+581,3149120,3151759,"She may not look like much,
+but she's got it where it counts, kid."
+582,3151880,3154713,"I've made a lot of special
+modifications myself."
+583,3154840,3158549,"But we're a little rushed, so if you'll
+just get on board, we'll get outta here."
+584,3163000,3164399,"Hello, sir."
+585,3173160,3174559,Which way?
+586,3176120,3177997,"All right, men,
+load your weapons."
+587,3179560,3181994,"Stop that ship.
+Blast them."
+588,3191480,3193357,"Chewie, get us out of here!"
+589,3194760,3198116,"Oh, my. I'd forgotten
+how much I hate space travel."
+590,3216320,3219118,"Looks like an imperial cruiser. Our
+passengers are hotter than I thought."
+591,3219240,3220878,"Hold 'em off.
+Angle the deflector shields..."
+592,3221000,3222752,"while I make the calculations
+for the jump to light speed."
+593,3233160,3235913,"Stay sharp. There's two more comin'.
+They're gonna try and cut us off."
+594,3236040,3237951,"Why don't you outrun 'em?
+I thought this thing was fast."
+595,3238080,3239832,"Watch your mouth, or you're
+gonna find yourself floating home."
+596,3239960,3243191,"We'll be safe enough
+once we make the jump to hyperspace."
+597,3243320,3245072,"Besides, I know a few manoeuvres.
+We'll lose 'em."
+598,3249040,3250951,Here's where the fun begins.
+599,3251080,3252752,"How long before you can
+jump to light speed?"
+600,3252880,3255633,"It'll take a few moments to get
+the coordinates from the navicomputer."
+601,3255760,3257239,At the rate they're gaining?
+602,3257360,3260238,"Travelling through hyperspace
+ain't like dustin' crops, boy."
+603,3260360,3261509,Without precise calculations...
+604,3261640,3263870,"we'd fly right through a star
+or bounce too close to a supernova..."
+605,3264000,3266230,"and that would end your trip
+real quick."
+606,3266360,3268590,"- What's that flashing?
+- We're losing a deflector shield."
+607,3268720,3271518,"Go strap yourselves in.
+I'm gonna make the jump to light speed."
+608,3291680,3293875,"We've entered
+the Alderaan system."
+609,3294880,3298634,"Governor Tarkin. I should have expected
+to find you holding Vader's leash."
+610,3298760,3302230,"I recognized your foul stench
+when I was brought on board."
+611,3303840,3305637,Charming to the last.
+612,3306320,3308117,"You don't know
+how hard I found it..."
+613,3308240,3310037,"signing the order
+to terminate your life."
+614,3310160,3312879,"I'm surprised you had the courage
+to take the responsibility yourself."
+615,3313000,3315992,"Princess Leia,
+before your execution..."
+616,3316120,3318190,"I would like you to be my guest
+at a ceremony..."
+617,3318320,3321198,"that will make
+this battle station operational."
+618,3321320,3323993,"No star system will dare
+oppose the emperor now."
+619,3324680,3326671,"The more you
+tighten your grip, Tarkin..."
+620,3326800,3329314,"the more star systems
+will slip through your fingers."
+621,3329440,3332034,"Not after we demonstrate
+the power of this station."
+622,3332720,3335996,"In a way, you have determined
+the choice of the planet..."
+623,3336120,3338156,that'll be destroyed first.
+624,3338280,3342558,"Since you are reluctant to provide us
+with the location of the rebel base..."
+625,3342680,3345353,"I have chosen to test
+this station's destructive power..."
+626,3345480,3347357,on your home planet of Alderaan.
+627,3348320,3350914,"No. Alderaan is peaceful.
+We have no weapons."
+628,3351040,3353235,"You would prefer another target?
+A military target?"
+629,3353360,3355430,Then name the system.
+630,3357320,3360517,"I grow tired of asking this,
+so it will be the last time."
+631,3361400,3363152,Where is the rebel base?
+632,3366600,3368113,Dantooine.
+633,3368800,3370472,They're on Dantooine.
+634,3370600,3373831,"There. You see, Lord Vader?
+She can be reasonable."
+635,3373960,3376633,"Continue with the operation.
+You may fire when ready."
+636,3376760,3378796,"- What?
+- You're far too trusting."
+637,3378920,3381229,"Dantooine is too remote
+to make an effective demonstration."
+638,3381360,3385717,"But don't worry. We will deal with
+your rebel friends soon enough."
+639,3388080,3390071,Commence primary ignition.
+640,3412520,3414556,"Are you all right?
+What's wrong?"
+641,3415920,3417990,"I felt a great disturbance
+in the Force..."
+642,3418120,3421112,"as if millions of voices suddenly
+cried out in terror..."
+643,3421240,3423071,and were suddenly silenced.
+644,3423760,3425671,"I fear something terrible
+has happened."
+645,3427400,3429516,"You'd better get on
+with your exercises."
+646,3432000,3434275,"You can forget your troubles
+with those imperial slugs."
+647,3434400,3436277,I told you I'd outrun them.
+648,3440120,3442076,"Don't everybody
+thank me at once."
+649,3442200,3445431,"Anyway, we should be at Alderaan
+about 0200 hours."
+650,3453680,3455557,"Now be careful, R2."
+651,3464600,3467034,"He made a fair move.
+Screaming about it can't help you."
+652,3467160,3469196,"Let him have it.
+It's not wise to upset a Wookiee."
+653,3469320,3471550,"But, sir, nobody worries
+about upsetting a droid."
+654,3471680,3476037,"'Cause a droid don't pull people's arms
+out of their sockets when they lose."
+655,3476160,3478230,Wookiees are known to do that.
+656,3479920,3481672,"I see your point, sir."
+657,3481800,3485236,"I suggest a new strategy, R2.
+Let the Wookiee win."
+658,3503000,3506436,"Remember, a Jedi can feel the Force
+flowing through him."
+659,3507200,3509395,"- You mean it controls your actions?
+- Partially."
+660,3509520,3511317,But it also obeys your commands.
+661,3516360,3520353,"Hokey religions and ancient weapons
+are no match for a blaster at your side."
+662,3521080,3523389,"You don't believe
+in the Force, do you?"
+663,3523520,3525795,"Kid, I've flown from one side
+of this galaxy to the other."
+664,3525920,3527717,I've seen a lot of strange stuff...
+665,3527840,3529990,"but I've never seen anything
+to make me believe..."
+666,3530120,3533271,"there's one all-powerful force
+controlling everything."
+667,3533400,3537313,"There's no mystical energy field
+controls my destiny."
+668,3537440,3540159,"It's all a lot of
+simple tricks and nonsense."
+669,3540280,3543033,"I suggest you try it again, Luke."
+670,3544360,3547193,"This time, let go your conscious self..."
+671,3549000,3551070,and act on instinct.
+672,3552160,3555436,"With the blast shield down, I can't see.
+How am I supposed to fight?"
+673,3555560,3557835,"Your eyes can deceive you.
+Don't trust them."
+674,3566920,3569115,Stretch out with your feelings.
+675,3583000,3585036,You see? You can do it.
+676,3585160,3586718,I call it luck.
+677,3586840,3589308,"In my experience,
+there's no such thing as luck."
+678,3589440,3591590,Good against remotes is one thing.
+679,3591720,3594553,"Good against the living,
+that's something else."
+680,3595640,3597471,We're coming up on Alderaan.
+681,3600760,3603320,"I did feel something.
+I could almost see the remote."
+682,3603440,3607638,"That's good. You've taken
+your first step into a larger world."
+683,3612680,3614159,Yes?
+684,3614280,3616111,"Our scout ships
+have reached Dantooine."
+685,3616240,3618037,"They found the remains
+of a rebel base..."
+686,3618160,3620390,"but they estimate that
+it has been deserted for some time."
+687,3620520,3623717,"They are now conducting an extensive
+search of the surrounding systems."
+688,3624720,3627154,"She lied.
+She lied to us."
+689,3627280,3630795,"I told you she would never
+consciously betray the rebellion."
+690,3632120,3633997,Terminate her immediately.
+691,3637040,3639554,"Stand by, Chewie.
+Cut in the sublight engines."
+692,3642200,3643235,What the--
+693,3646280,3649795,"We've come out in a meteor shower,
+some kind of asteroid collision."
+694,3649920,3652115,"- It's not on any of the charts.
+- What's going on?"
+695,3652240,3654435,"Our position's correct,
+except no Alderaan."
+696,3654560,3656676,"- Where is it?
+- That's what I'm trying to tell you."
+697,3656800,3658518,"It ain't there.
+It's been blown away."
+698,3658640,3661200,"- What? How?
+- Destroyed by the Empire."
+699,3661320,3663436,"The entire starfleet
+couldn't destroy the whole planet."
+700,3663560,3665949,"It'd take a thousand ships
+with more firepower than I've--"
+701,3667480,3669596,"- There's another ship coming in.
+- Maybe they know what happened."
+702,3669720,3670914,It's an imperial fighter.
+703,3672920,3675388,"- It followed us.
+- No. It's a short-range fighter."
+704,3675520,3677556,"There aren't any bases here.
+Where did it come from?"
+705,3680720,3683314,"Sure is leaving in a hurry.
+If they identify us, we're in trouble."
+706,3683440,3685431,"Not if I can help it.
+Chewie, jam its transmissions."
+707,3685560,3688757,"- Let it go. It's too far out of range.
+- Not for long."
+708,3692480,3695552,"A fighter that size couldn't get
+this deep into space on its own."
+709,3695680,3698194,"He must have gotten lost,
+been part of a convoy or something."
+710,3698320,3701039,"He ain't gonna be around
+long enough to tell anybody about us."
+711,3703480,3705277,He's heading for that small moon.
+712,3705400,3707789,"I can get him before he gets there.
+He's almost in range."
+713,3709320,3711311,That's no moon.
+714,3711440,3714591,"- It's a space station.
+- It's too big to be a space station."
+715,3717840,3720149,"I have a very bad
+feeling about this."
+716,3720280,3722032,Turn the ship around.
+717,3722160,3724276,"Yeah. I think you're right.
+Full reverse."
+718,3724400,3726311,"Chewie, lock in
+the auxiliary power."
+719,3730880,3732916,"Chewie, lock in
+the auxiliary power."
+720,3734880,3736711,"Why are we still
+moving towards it?"
+721,3736840,3738558,A tractor beam's pulling us in.
+722,3738680,3740238,"There's gotta be
+something you can do."
+723,3740360,3743079,"There's nothing I can do.
+I'm at full power. I have to shut down."
+724,3743200,3745475,"They're not gonna get me
+without a fight."
+725,3748880,3752236,"You can't win, but there are
+alternatives to fighting."
+726,3768240,3770310,Clear Bay 327.
+727,3770440,3772635,"We are opening
+the magnetic field."
+728,3786680,3788557,"To your stations.
+Come with me."
+729,3792960,3796191,"Close all outboard shields.
+Close all outboard shields."
+730,3797840,3798716,Yes?
+731,3798840,3801718,"We've captured a freighter entering
+the remains of the Alderaan system."
+732,3801840,3805515,"Its markings match those of a ship
+that blasted its way out of Mos Eisley."
+733,3805640,3809235,"They must be trying to return
+the stolen plans to the princess."
+734,3809360,3812272,She may yet be of some use to us.
+735,3817160,3820311,"Unlock 1, 5, 7 and 9.
+Release charge."
+736,3822440,3824396,"316, report to control."
+737,3827560,3829152,"There's no one on board, sir."
+738,3829280,3831874,"According to the log, the crew
+abandoned ship right after take-off."
+739,3832680,3835353,"It must be a decoy. Several
+escape pods have been jettisoned."
+740,3835480,3837311,"- Did you find any droids?
+- No, sir."
+741,3837440,3839192,"If there were any,
+they must have jettisoned."
+742,3839320,3842630,"Send a scanning crew aboard.
+I want every part of this ship checked."
+743,3842760,3843909,"Yes, sir."
+744,3844040,3845519,I sense something...
+745,3845640,3847995,a presence I've not felt since--
+746,3850600,3853797,"Get me a scanning crew in here.
+I want every part of this ship checked."
+747,3862480,3864357,There's no one here.
+748,3872920,3874956,"Boy, it's lucky you had
+these compartments."
+749,3875080,3877992,"I use them for smuggling. I never
+thought I'd be smuggling myself in 'em."
+750,3878120,3879235,This is ridiculous.
+751,3879360,3881749,"Even if I could take off,
+I'd never get past the tractor beam."
+752,3881880,3883108,Leave that to me.
+753,3883240,3886152,"Damn fool.
+I knew you were gonna say that."
+754,3886280,3889556,"Who's the more foolish,
+the fool or the fool who follows him?"
+755,3898800,3902270,"The ship's all yours. If the scanners
+pick up anything, report it immediately."
+756,3903880,3905279,Let's go.
+757,3919400,3921277,"Hey, down there."
+758,3922880,3924757,Could you give us a hand with this?
+759,3932840,3935149,"TK-421, why aren't you
+at your post?"
+760,3936320,3938231,"TK-421, do you copy?"
+761,3949760,3952558,"Take over. We've got a bad transmitter.
+I'll see what I can do."
+762,3969680,3971955,"Between his howling
+and your blasting everything..."
+763,3972080,3974594,"it's a wonder the whole station
+doesn't know we're here."
+764,3974720,3977234,"Bring 'em on. I prefer a straight fight
+to sneakin' around."
+765,3977360,3979032,"We've found
+the computer outlet, sir."
+766,3979160,3982038,"Plug in. He should be able to
+interpret the entire imperial network."
+767,3992840,3996116,"He's found the controls to the power
+beam that's holding the ship here."
+768,3996240,3998959,"He'll try to make the precise location
+appear on the monitor."
+769,3999080,4003119,"The tractor beam is coupled
+to the main reactor in seven locations."
+770,4003240,4006118,"A power loss at one of the terminals
+will allow the ship to leave."
+771,4008800,4011872,"I don't think you boys can help.
+I must go alone."
+772,4012000,4015231,"Whatever you say. I've done more than
+I bargained for on this trip already."
+773,4015360,4019035,"- I want to go with you.
+- Be patient, Luke. Watch the droids."
+774,4019160,4021037,They must be delivered safely...
+775,4021160,4024152,"or other star systems will suffer
+the same fate as Alderaan."
+776,4024280,4027431,"Your destiny lies along
+a different path from mine."
+777,4030920,4032751,The Force will be with you...
+778,4032880,4034233,always.
+779,4043360,4045510,"You said it, Chewie."
+780,4045640,4047870,Where did you dig up that old fossil?
+781,4048960,4050473,Ben is a great man.
+782,4050600,4053353,"- Great at getting us into trouble.
+- I didn't hear you give any ideas."
+783,4053480,4056358,"Anything's better than just hangin'
+around waiting for 'em to pick us up."
+784,4056480,4058675,Who do you think--
+785,4058800,4061872,"- What is it?
+- I'm afraid I'm not quite sure, sir."
+786,4062000,4064434,"He says, ""I've found her,''
+and keeps repeating, ""She's here.''"
+787,4064560,4067028,Who? Who has he found?
+788,4067160,4069754,"- Princess Leia.
+- The princess? She's here?"
+789,4069880,4071472,"- Princess?
+- Where is she?"
+790,4071600,4073397,Princess? What's going on?
+791,4078640,4081279,"Level 5, Detention Block AA-23."
+792,4085960,4088428,"I'm afraid she's scheduled
+to be terminated."
+793,4088560,4091393,"Oh, no.
+We've gotta do something."
+794,4091520,4093829,"- What are you talking about?
+- The droids belong to her."
+795,4093960,4095757,"She's the one in the message.
+We gotta help her."
+796,4095880,4098633,"Don't get any funny ideas.
+The old man wants us to wait here."
+797,4098760,4101832,"He didn't know she was here.
+Find a way into that detention block."
+798,4101960,4104269,"- I'm not going anywhere.
+- They're gonna execute her."
+799,4104400,4107790,"You said you didn't want to just wait
+to be captured. Now you want to stay?"
+800,4107920,4110832,"Marching into the detention area
+is not what I had in mind."
+801,4110960,4113633,"- But they're gonna kill her.
+- Better her than me."
+802,4121080,4122308,She's rich.
+803,4124880,4126199,Rich?
+804,4126880,4130714,"Rich, powerful. If you were to
+rescue her, the reward would be--"
+805,4130840,4133513,"- What?
+- Well, more well than you can imagine."
+806,4133640,4135471,"I don't know.
+I can imagine quite a bit."
+807,4135600,4137556,"- You'll get it.
+- I better."
+808,4137680,4139079,You will.
+809,4139200,4141509,"All right, kid.
+You better be right about this."
+810,4141640,4143517,"- All right.
+- What's your plan?"
+811,4144520,4146875,"3PO, hand me those binders there,
+will you?"
+812,4148400,4149719,Okay.
+813,4150400,4152197,"Now, I'm gonna put these on you."
+814,4153360,4156397,"Okay, Han,
+you put those on."
+815,4157480,4159789,"Don't worry, Chewie.
+I think I know what he has in mind."
+816,4159920,4162195,"Master Luke, sir,
+pardon me for asking..."
+817,4162320,4165392,"but what should R2 and I do
+if we're discovered here?"
+818,4165520,4169149,"- Lock the door.
+- And hope they don't have blasters."
+819,4169280,4171191,That isn't very reassuring.
+820,4190720,4192676,517 to scanner control.
+821,4192800,4194756,517 to scanner control.
+822,4198560,4200516,"316, report to control."
+823,4204040,4206156,53 to upper bay door.
+824,4206280,4208510,53 to upper bay door.
+825,4220440,4222670,"I can't see a thing
+in this helmet."
+826,4252840,4255400,"- This is not gonna work.
+- Why didn't you say so before?"
+827,4255520,4257397,I did say so before.
+828,4271760,4274832,"Where are you
+taking this... thing?"
+829,4274960,4277554,"Prisoner transfer
+from Cell Block 1138."
+830,4278840,4280671,I wasn't notified.
+831,4280800,4282677,I'll have to clear it.
+832,4288800,4291189,"- Look out! He's loose!
+- He'll tear us all apart!"
+833,4314600,4315237,Look out.
+834,4325400,4327755,"We gotta find out which cell
+this princess of yours is in."
+835,4327880,4329950,"Here it is-- 2187.
+You go and get her."
+836,4330080,4331957,I'll hold them here.
+837,4335720,4338188,"Everything's under control.
+Situation normal."
+838,4338320,4339435,What happened?
+839,4339560,4341357,Had a slight weapons malfunction...
+840,4341480,4343710,"but everything's
+perfectly all right now."
+841,4343840,4346877,"We're fine. We're all fine here now.
+Thank you."
+842,4347000,4349560,"- How are you?
+- We're sending a squad up."
+843,4350560,4353518,"Negative, negative.
+We have a reactor leak here now."
+844,4353640,4357349,"Give us a few minutes to lock it down.
+Large leak, very dangerous."
+845,4357480,4359914,"Who is this?
+What's your operating number?"
+846,4362280,4365590,"Boring conversation anyway.
+Luke, we're gonna have company!"
+847,4378720,4381109,"Aren't you a little short
+for a stormtrooper?"
+848,4382440,4383839,"Oh, the uniform."
+849,4385240,4387231,"I'm Luke Skywalker.
+I'm here to rescue you."
+850,4387360,4389351,"- You're who?
+- I'm here to rescue you."
+851,4389480,4391755,"I've got your R2 unit.
+I'm here with Ben Kenobi."
+852,4391880,4393757,"- Where is he?
+- Come on."
+853,4395240,4398277,"- He is here.
+- Obi-Wan Kenobi?"
+854,4399040,4402191,"- What makes you think so?
+- A tremor in the Force."
+855,4402320,4405995,"The last time I felt it
+was in the presence of my old master."
+856,4406120,4408395,Surely he must be dead by now.
+857,4408520,4410795,Don't underestimate the Force.
+858,4411880,4414952,"The Jedi are extinct.
+Their fire has gone out of the universe."
+859,4415800,4418234,"You, my friend, are all that's left
+of their religion."
+860,4419080,4420149,Yes.
+861,4420280,4423636,"We have an emergency alert
+in Detention Block AA-23."
+862,4424320,4426709,"The princess?
+Put all sections on alert."
+863,4426840,4430310,"Obi-Wan is here.
+The Force is with him."
+864,4430440,4433159,"If you're right,
+he must not be allowed to escape."
+865,4433280,4436556,"Escape is not his plan.
+I must face him alone."
+866,4445520,4446953,Get behind me.
+867,4457960,4460554,"Watch your left.
+They went down the cell bay."
+868,4463520,4466273,"- Can't get out that way.
+- You cut off our only escape route."
+869,4466400,4468914,"Maybe you'd like it back in your cell,
+Your Highness."
+870,4471240,4473276,"- C-3PO. C-3PO.
+- Yes, sir?"
+871,4473400,4476710,"Are there any other ways out of
+the cell bay? We've been cut off."
+872,4478880,4480996,"What was that?
+I didn't copy."
+873,4481120,4484396,"I said all systems have been
+alerted to your presence, sir."
+874,4484520,4486909,"The main entrance
+seems to be the only way in or out."
+875,4487040,4489156,"All other information on your level
+is restricted."
+876,4489280,4491669,"Open up in there.
+Open up in there."
+877,4492680,4494272,"Oh, no."
+878,4494400,4495879,There isn't any other way out.
+879,4501280,4503396,"I can't hold them off forever.
+Now what?"
+880,4503520,4506876,"Some rescue. When you came in here,
+didn't you have a plan for getting out?"
+881,4507000,4508877,"He's the brains, sweetheart."
+882,4509000,4510592,"Well, I didn't--"
+883,4511760,4515070,"- What the hell are you doing?
+- Somebody has to save our skins."
+884,4517160,4518912,"Into the garbage chute, fly boy."
+885,4526120,4527075,Get in!
+886,4528240,4531118,"Get in there, you big furry oaf.
+I don't care what you smell."
+887,4532120,4534475,"Get in there,
+and don't worry about it."
+888,4536480,4537879,Wonderful girl.
+889,4539960,4542997,"Either I'm gonna kill her,
+or I'm beginning to like her."
+890,4544480,4546357,Get in there.
+891,4558480,4561790,"The garbage chute was
+a really wonderful idea."
+892,4561920,4564195,"What an incredible smell
+you've discovered."
+893,4566720,4568836,Let's get out of here.
+894,4568960,4571155,"- Get away from there.
+- No, wait."
+895,4577720,4579950,"I already tried it!
+It's magnetically sealed."
+896,4580080,4582230,"Put that thing away!
+You're gonna get us all killed!"
+897,4582360,4584191,"Absolutely, Your Worship."
+898,4584320,4586515,"Look, I had everything under control
+till you led us down here."
+899,4586640,4589393,"It's not gonna take 'em long
+to figure out what happened to us."
+900,4589520,4591397,It could be worse.
+901,4595160,4596354,It's worse.
+902,4596480,4599358,"- There's something alive in here.
+- That's your imagination."
+903,4600320,4602117,"Something just moved
+past my leg."
+904,4603800,4605756,Look. Did you see that?
+905,4605880,4606710,What?
+906,4627520,4628919,Kid! Luke!
+907,4641200,4642838,Grab hold of this!
+908,4642960,4645190,Blast it! My gun's jammed.
+909,4645320,4647959,"- Where?
+- Anywhere!"
+910,4679280,4680793,Help him!
+911,4680920,4683275,"- What happened?
+- I don't know."
+912,4683400,4685595,"It just let go of me
+and disappeared."
+913,4691400,4693277,I got a bad feeling about this.
+914,4699160,4702197,"- The walls are moving!
+- Try and brace it with something."
+915,4710840,4712273,Help me.
+916,4724520,4726078,Wait a minute.
+917,4728080,4730913,"3PO! Come in, 3PO!"
+918,4732160,4733593,3PO!
+919,4733720,4735597,Where could he be?
+920,4739720,4741756,Take over. See to him.
+921,4744160,4745559,"Look, there."
+922,4747920,4750150,"They're madmen.
+They're heading for the prison level."
+923,4750280,4752077,"If you hurry, you might catch them."
+924,4752200,4753599,Follow me.
+925,4757200,4759077,You stand guard.
+926,4763160,4764388,Come on.
+927,4772400,4775517,"All this excitement has overrun
+the circuits in my counterpart here."
+928,4775640,4778632,"If you don't mind, I'd like to
+take him down to maintenance."
+929,4778760,4780193,All right.
+930,4791920,4794514,"3PO. Come in, 3PO."
+931,4794640,4795789,3PO.
+932,4795920,4798639,"- Get on top.
+- I can't."
+933,4798760,4800512,Where could he be? 3PO.
+934,4801920,4803592,"3PO, will you come in."
+935,4804360,4806476,"They aren't here.
+Something must have happened."
+936,4806600,4808670,See if they've been captured. Hurry.
+937,4812840,4815673,"One thing's for sure.
+We're all gonna be a lot thinner."
+938,4817920,4820070,"- Get on top of it.
+- I'm trying."
+939,4825240,4828471,"Thank goodness they haven't found them.
+Where could they be?"
+940,4830920,4833150,"""Use the comlink''? Oh, my."
+941,4833280,4835077,"I forgot.
+I turned it off."
+942,4839120,4841111,"- Are you there, sir?
+- 3PO?"
+943,4842120,4844554,"- We've had some problems.
+- Shut up and listen to me."
+944,4844680,4848275,"Shut down all the garbage mashers
+on the detention level. Do you copy?"
+945,4848400,4850914,"Shut down all the garbage mashers
+on the detention level!"
+946,4852360,4854828,"Shut down all the garbage mashers
+on the detention level!"
+947,4854960,4857599,"No, shut them all down.
+Hurry! Oh, no."
+948,4868640,4870039,What?
+949,4871080,4872877,"You did great, 3PO!"
+950,4873000,4875230,"Listen to them.
+They're dying, R2."
+951,4875360,4877191,"Curse my metal body.
+I wasn't fast enough."
+952,4877320,4880471,"It's all my fault.
+My poor master."
+953,4880600,4882079,"We're all right.
+You did great!"
+954,4883000,4886675,"Hey! Open the pressure maintenance
+hatch on unit number-- Where are we?"
+955,4886800,4889997,3263827.
+956,4933880,4937316,"If we can avoid any more female advice,
+we oughta be able to get out of here."
+957,4937440,4939192,Let's get moving.
+958,4940360,4942430,Where you goin'?
+959,4942560,4943913,Wait! They'll hear!
+960,4945920,4947717,"Come here, you big coward."
+961,4947840,4949398,"- Chewie, come here.
+- Listen."
+962,4950280,4952874,"I don't know who you are
+or where you came from..."
+963,4953000,4955673,"but from now on,
+you do as I tell you, okay?"
+964,4956560,4959313,"Look, Your Worshipfulness,
+let's get one thing straight."
+965,4959440,4961954,"I take orders
+from just one person-- me."
+966,4962720,4964517,It's a wonder you're still alive.
+967,4964640,4967632,"Will somebody get
+this big walking carpet out of my way?"
+968,4967760,4969910,No reward is worth this.
+969,4979760,4981557,"Give me regular reports, please."
+970,4981680,4982715,Right.
+971,4984840,4987912,"- Do you know what's going on?
+- Maybe it's another drill."
+972,4992800,4994677,You seen that new VT-16?
+973,4994800,4997155,"Yeah. Some of the other guys
+were telling me about it."
+974,4997280,4999077,They say it's quite a thing to see.
+975,4999200,5001031,What was that?
+976,5001160,5004277,"It's nothing. Outgassing.
+Don't worry about it."
+977,5008920,5011036,"- There she is.
+- C-3PO, do you copy?"
+978,5011160,5012115,"Yes, sir."
+979,5012240,5014037,"- Are you safe?
+- For the moment."
+980,5014160,5016355,"We're in the main hangar
+across from the ship."
+981,5018320,5019833,"We're right above you.
+Stand by."
+982,5019960,5022554,"You came in that thing?
+You're braver than I thought."
+983,5022680,5024557,Nice. Come on.
+984,5028000,5029638,"It's them.
+Blast them."
+985,5030880,5032552,Get back to the ship!
+986,5032680,5034511,"- Where are you going?
+- He certainly has courage."
+987,5034640,5038110,"What good will it do us
+if he gets himself killed? Come on."
+988,5062080,5063957,I think we took a wrong turn.
+989,5068760,5069590,There's no lock.
+990,5073520,5076273,"- That oughta hold them for a while.
+- Quick. We've got to get across."
+991,5076400,5079437,"-Find the controls to extend the bridge.
+-I think I just blasted it."
+992,5079560,5081232,They're coming through.
+993,5102720,5104278,"Here, hold this."
+994,5119600,5120953,Here they come.
+995,5131880,5133313,For luck.
+996,5139240,5143028,"We think they may be splitting up.
+They may be on Level 5 and 6 now, sir."
+997,5157320,5158280,Where could they be?
+998,5158280,5159190,Where could they be?
+999,5162840,5164637,Close the blast doors.
+1000,5171480,5173835,"Open the blast doors.
+Open the blast doors."
+1001,5191480,5196031,"I've been waiting for you, Obi-Wan.
+We meet again at last."
+1002,5196800,5198392,The circle is now complete.
+1003,5198520,5200590,"When I left you,
+I was but the learner."
+1004,5200720,5202950,Now I am the master.
+1005,5203080,5204957,"Only a master of evil, Darth."
+1006,5224480,5226630,"Your powers are weak, old man."
+1007,5226760,5230230,"You can't win, Darth.
+If you strike me down..."
+1008,5230360,5233557,"I shall become more powerful
+than you can possibly imagine."
+1009,5240760,5242637,You should not have come back.
+1010,5267400,5268879,Didn't we just leave this party?
+1011,5271600,5273716,"- What kept you?
+- We ran into some old friends."
+1012,5273840,5276229,"- The ship all right?
+- Seems okay, if we can get to it."
+1013,5276360,5278271,"I hope the old man got
+the tractor beam down."
+1014,5292280,5293395,Look.
+1015,5297000,5298877,"Come on, R2. We're going."
+1016,5300480,5301469,Now's our chance. Go!
+1017,5330440,5331509,Come on!
+1018,5332600,5333953,Come on!
+1019,5334080,5336992,"- Luke, it's too late!
+- Blast the door, kid!"
+1020,5346360,5347793,"Run, Luke, run."
+1021,5350920,5354310,"I hope that old man got the tractor beam
+down, or this is gonna be a short trip."
+1022,5354440,5355839,Hit it!
+1023,5386120,5387917,"We're coming up
+on their sentry ships."
+1024,5388040,5391271,"Hold them off. Angle the deflector
+shields while I charge up the main guns."
+1025,5400120,5401997,I can't believe he's gone.
+1026,5405480,5407198,"There wasn't anything
+you could have done."
+1027,5408000,5410116,"Come on, buddy.
+We're not out of this yet."
+1028,5426280,5428475,"You in, kid?
+Okay, stay sharp."
+1029,5438920,5439955,Here they come.
+1030,5457280,5459032,They're coming in too fast!
+1031,5466720,5470315,"- We've lost the lateral controls.
+- Don't worry. She'll hold together."
+1032,5471840,5473751,"Hear me, baby?
+Hold together."
+1033,5495000,5496479,Got him. I got him!
+1034,5496600,5498875,"Great, kid.
+Don't get cocky."
+1035,5500040,5501678,There's still two more.
+1036,5534240,5536629,"- That's it. We did it.
+- We did it."
+1037,5537880,5540235,"Help. I think I'm melting.
+This is all your fault."
+1038,5547760,5549352,Are they away?
+1039,5549480,5551675,"They've just made the jump
+into hyperspace."
+1040,5552360,5555591,"You're sure the homing beacon
+is secure aboard their ship?"
+1041,5556800,5559030,"I'm taking an awful risk, Vader."
+1042,5559160,5560991,This had better work.
+1043,5561200,5563191,"Not a bad bit of rescuing, huh?"
+1044,5563920,5566832,"You know, sometimes
+I amaze even myself."
+1045,5566960,5569155,That doesn't sound too hard.
+1046,5569280,5572750,"They let us go. It's the only
+explanation for the ease of our escape."
+1047,5572880,5575519,"- You call that easy?
+- They're tracking us."
+1048,5575640,5577312,"Not this ship, sister."
+1049,5578560,5580949,"At least the information in R2
+is still intact."
+1050,5581080,5583389,"What's so important?
+What's he carrying?"
+1051,5583520,5585590,"The technical readouts
+of that battle station."
+1052,5586600,5589717,"I only hope that when the data's
+analysed a weakness can be found."
+1053,5589840,5593037,"- It's not over yet.
+- It is for me, sister."
+1054,5593160,5596391,"I ain't in this for your revolution,
+and I'm not in it for you, Princess."
+1055,5596520,5599193,"I expect to be well paid.
+I'm in it for the money."
+1056,5599320,5601390,"You needn't worry
+about your reward."
+1057,5601520,5604273,"If money is all that you love,
+then that's what you'll receive."
+1058,5607360,5609191,Your friend is quite a mercenary.
+1059,5609320,5612357,"I wonder if he really cares
+about anything... or anybody."
+1060,5613480,5614879,I care.
+1061,5621240,5622753,So...
+1062,5622880,5624677,"what do you
+think of her, Han?"
+1063,5624800,5626552,"I'm trying not to, kid."
+1064,5627400,5628594,Good.
+1065,5631880,5634633,"Still, she's got a lot of spirit."
+1066,5636720,5639632,"What do you think?
+You think a princess and a guy like me--"
+1067,5639760,5640317,No.
+1068,5686040,5689077,"You're safe. When we heard about
+Alderaan, we feared the worst."
+1069,5689200,5690997,"We have no time for sorrows,
+Commander."
+1070,5691120,5693998,"You must use the information
+in this R2 unit to help plan the attack."
+1071,5694120,5695997,It's our only hope.
+1072,5716240,5718800,"- Yes.
+- We're approaching the planet Yavin."
+1073,5718920,5721115,"The rebel base is on a moon
+on the far side."
+1074,5721240,5723117,"We are preparing
+to orbit the planet."
+1075,5731760,5733751,"The battle station
+is heavily shielded..."
+1076,5733880,5737156,"and carries a firepower
+greater than half the starfleet."
+1077,5737880,5741759,"Its defences are designed around
+a direct large-scale assault."
+1078,5741880,5746874,"A small, one-man fighter should be able
+to penetrate the outer defence."
+1079,5748600,5752229,"Pardon me for asking, sir, but what good
+are snub fighters against that?"
+1080,5752360,5756717,"The Empire doesn't consider a small,
+one-man fighter to be any threat..."
+1081,5756840,5758717,or they'd have a tighter defence.
+1082,5759560,5762632,"An analysis of the plans
+provided by Princess Leia..."
+1083,5762760,5765638,"has demonstrated a weakness
+in the battle station."
+1084,5766520,5768351,The approach will not be easy.
+1085,5768480,5771472,"You're required to manoeuvre
+straight down this trench..."
+1086,5771600,5774068,and skim the surface to this point.
+1087,5774920,5777480,"The target area
+is only two metres wide."
+1088,5777600,5781070,"It's a small thermal exhaust port
+right below the main port."
+1089,5782320,5785357,"The shaft leads directly
+to the reactor system."
+1090,5785480,5788074,"A precise hit
+will start a chain reaction..."
+1091,5788200,5790316,which should destroy the station.
+1092,5790440,5793750,"Only a precise hit will
+set up a chain reaction."
+1093,5793880,5796872,"The shaft is ray-shielded,
+so you'll have to use proton torpedoes."
+1094,5797000,5799036,"That's impossible,
+even for a computer."
+1095,5799160,5802755,"No, it's not. I used to bull's-eye
+womp rats in my T-16 back home."
+1096,5802880,5805155,"They're not much bigger
+than two metres."
+1097,5805280,5808317,"Then man your ships,
+and may the Force be with you."
+1098,5816240,5818549,"Orbiting the planet
+at maximum velocity."
+1099,5819360,5822875,"The moon with the rebel base
+will be in range in 30 minutes."
+1100,5823000,5825468,"This will be a day
+long remembered."
+1101,5825600,5827477,It has seen the end of Kenobi...
+1102,5827600,5830068,"and will soon see
+the end of the rebellion."
+1103,5835600,5837909,"All flight crews,
+man your stations."
+1104,5843960,5846918,"So, you got your reward
+and you're just leaving, then?"
+1105,5847040,5848917,That's right. Yeah.
+1106,5850000,5852468,"I got some old debts
+I gotta pay off with this stuff."
+1107,5852600,5856479,"Even if I didn't, you don't think I'd be
+fool enough to stick around here, do ya?"
+1108,5856600,5860036,"Why don't you come with us? You're
+pretty good in a fight. We could use ya."
+1109,5860160,5862993,"Come on. Why don't you
+take a look around?"
+1110,5863120,5865634,"You know what's about to happen,
+what they're up against."
+1111,5865760,5868399,"They could use a good pilot like you.
+You're turning your back on them."
+1112,5868520,5870795,"What good's a reward
+if you ain't around to use it?"
+1113,5870920,5873718,"Besides, attacking that battle station
+ain't my idea of courage."
+1114,5873840,5876559,It's more like... suicide.
+1115,5877960,5881032,"All right.
+Well, take care of yourself, Han."
+1116,5881160,5883674,"I guess that's what you're best at,
+isn't it?"
+1117,5883800,5885028,"Hey, Luke."
+1118,5888280,5890510,May the Force be with you.
+1119,5896840,5899832,"What are you looking at?
+I know what I'm doing."
+1120,5904080,5906435,All pilots to your stations.
+1121,5915040,5917190,"- What's wrong?
+- It's Han."
+1122,5917320,5919629,"I don't know.
+I really thought he'd change his mind."
+1123,5919760,5923070,"He's got to follow his own path.
+No one can choose it for him."
+1124,5924120,5926429,I only wish Ben were here.
+1125,5934160,5936116,Open main launch tubes.
+1126,5936960,5938837,"Main launch tubes opening, sir."
+1127,5938960,5940552,"Hey, Luke!"
+1128,5940680,5943672,"- Biggs!
+- I don't believe it. How are ya?"
+1129,5943800,5945756,"- Coming up?
+- I'll be up there with you."
+1130,5945880,5948075,"- Have I got stories to tell you.
+- Skywalker."
+1131,5949720,5951517,"Are you sure
+you can handle this ship?"
+1132,5951640,5954871,"Sir, Luke is the best bush pilot
+in the outer-rim territories."
+1133,5955600,5957989,"- You'll do all right.
+- Thank you, sir. I'll try."
+1134,5958120,5961829,"Gotta get aboard. We'll hear all your
+stories when we get back, all right?"
+1135,5961960,5964520,"Hey, Biggs.
+I told you I'd make it someday."
+1136,5964640,5967473,"It'll be like old times, Luke.
+They'll never stop us."
+1137,5970280,5973033,"This R2 unit of yours seems
+a bit beat up. You want a new one?"
+1138,5973160,5976152,"Not on your life. That droid and I
+have been through a lot."
+1139,5976280,5977190,"You okay, R2?"
+1140,5978840,5980159,Good.
+1141,5981200,5983794,"Gold squadron,
+begin take-off procedure."
+1142,5984480,5987313,"Hang on tight, R2.
+You've got to come back."
+1143,5989160,5991037,"You wouldn't want my life
+to get boring, would you?"
+1144,6037440,6040273,"Luke, the Force will be with you."
+1145,6051880,6055190,"Standby alert.
+Death Star approaching."
+1146,6055320,6058278,"Estimated time to firing range,
+15 minutes."
+1147,6070920,6073036,"- All wings report in.
+- Red 10 standing by."
+1148,6073160,6075276,"- Red Seven standing by.
+- Red Three standing by."
+1149,6075400,6077994,"- Red Six standing by.
+- Red Nine standing by."
+1150,6078120,6080031,"- Red Two standing by.
+- Red 11 standing by."
+1151,6080160,6081957,Red Five standing by.
+1152,6083320,6085117,Lock S-foils in attack position.
+1153,6089240,6091117,"We're passing through
+the magnetic field."
+1154,6091240,6093879,"Hold tight.
+Switch your deflectors on."
+1155,6094000,6095353,Double front.
+1156,6098280,6099952,Look at the size of that thing.
+1157,6100080,6102548,"Cut the chatter, Red Two.
+Accelerate to attack speed."
+1158,6105840,6108434,"- This is it, boys.
+- Red Leader, this is Gold Leader."
+1159,6108560,6111279,"- I copy, Gold Leader.
+- We're starting for the target shaft."
+1160,6111400,6114676,"We're in position. I'm going to cut
+across the axis and draw their fire."
+1161,6128560,6131677,"- Heavy fire, boss, 23 degrees.
+- I see it. Stay low."
+1162,6138840,6140239,"This is Red Five.
+I'm going in."
+1163,6144680,6145590,"Luke, pull up!"
+1164,6147480,6149436,"- You all right?
+- A little cooked, but I'm okay."
+1165,6155200,6158954,"We count 30 rebel ships, but they're so
+small they're evading our turbolasers."
+1166,6159080,6160877,"We'll have to destroy
+them ship to ship."
+1167,6161000,6162911,"Get the crews
+to their fighters."
+1168,6165480,6166310,Watch yourself.
+1169,6166440,6169113,"There's a lot of fire coming from
+the right side of that deflection tower."
+1170,6169240,6170434,I'm on it.
+1171,6170560,6173791,"- I'm going in. Cover me, Porkins.
+- Right with you, Red Three."
+1172,6179960,6181632,I've got a problem here.
+1173,6181760,6183079,"- Eject.
+- I can hold it."
+1174,6183200,6185270,"- Pull up!
+- No, I'm all right--"
+1175,6189320,6192118,"The rebel base will be in firing range
+in seven minutes."
+1176,6195840,6198400,"Luke, trust your feelings."
+1177,6205920,6207433,Squad leaders...
+1178,6207560,6209516,"we've picked up
+a new group of signals."
+1179,6209640,6211437,"Enemy fighters
+coming your way."
+1180,6211560,6213152,"My scope's negative.
+I don't see anything."
+1181,6213280,6215350,"- Pick up your visual scanning.
+- Here they come."
+1182,6218520,6220112,You've got one on your tail.
+1183,6225280,6226076,I'm hit!
+1184,6227520,6229909,"- You've picked one up. Watch it.
+- I can't see it."
+1185,6231880,6233472,"He's on me tight.
+I can't shake him."
+1186,6235160,6237116,I'll be right there.
+1187,6248840,6252037,"Several fighters have broken off
+from the main group. Come with me."
+1188,6255400,6258358,"- Fall in. Fall in.
+- Watch your back, Luke."
+1189,6258480,6260675,"Fighters above you, coming in."
+1190,6266720,6269359,"I'm hit, but not bad.
+R2, see what you can do with it."
+1191,6269480,6271471,Hang on back there.
+1192,6271600,6274114,"Red Six, can you see Red Five?"
+1193,6274240,6276515,"There's a heavy fire zone.
+Red Five, where are you?"
+1194,6276640,6277959,I can't shake him.
+1195,6281880,6283313,"I'm on him, Luke."
+1196,6286440,6287953,"Blast it, Biggs.
+Where are you?"
+1197,6294720,6297359,"- Thanks, Wedge.
+- Good shooting, Wedge."
+1198,6297480,6300438,"Red Leader, this is Gold Leader.
+We're starting our attack run."
+1199,6302240,6304470,"I copy, Gold Leader.
+Move into position."
+1200,6306840,6308990,Stay in attack formation.
+1201,6309120,6311839,"The exhaust port
+is marked and locked in."
+1202,6317480,6320472,"Switch all power
+to front deflector screen."
+1203,6320600,6323672,"Switch all power
+to front deflector screen."
+1204,6328200,6329838,"How many guns do you think,
+Gold Five?"
+1205,6329960,6333032,"Say about 20 guns,
+some on the surface, some on the towers."
+1206,6333160,6335833,"Death Star will be in range
+in five minutes."
+1207,6337920,6340798,Switch to targeting computer.
+1208,6343200,6345077,"Computer's locked.
+Getting a signal."
+1209,6347400,6349391,The guns. They've stopped.
+1210,6351080,6353469,"Stabilize your rear deflectors.
+Watch for enemy fighters."
+1211,6353600,6355909,"They're coming in.
+Three marks at 210."
+1212,6357880,6359916,"I'll take them myself.
+Cover me."
+1213,6360040,6361234,"Yes, sir."
+1214,6375200,6377509,"- It's no good. I can't manoeuvre.
+- Stay on target."
+1215,6377640,6379392,"- We're too close.
+- Stay on target."
+1216,6381160,6382036,Loosen up!
+1217,6385040,6387679,"Gold Five to Red Leader,
+lost Tiree, lost Hutch."
+1218,6387800,6390030,"- I copy, Gold Leader.
+- They came from behind."
+1219,6396160,6398628,"We've analysed their attack, sir,
+and there is a danger."
+1220,6398760,6400557,"Should I have your ship
+standing by?"
+1221,6400680,6403433,"Evacuate?
+In our moment of triumph?"
+1222,6403560,6405869,"I think you overestimate
+their chances."
+1223,6406600,6408477,"Rebel base,
+three minutes and closing."
+1224,6409240,6410958,"Red boys, this is Red Leader."
+1225,6411080,6412718,Rendezvous at mark 6. 1.
+1226,6412840,6416310,"- This is Red Two flying toward you.
+- Red Three standing by."
+1227,6416440,6418158,"Red Leader, this is Base One."
+1228,6418280,6420794,"Keep half your group out of range
+for the next run."
+1229,6420920,6423388,"Copy, Base One.
+Luke, take Red Two and Three."
+1230,6423520,6426717,"Hold up here and wait for
+my signal to start your run."
+1231,6434840,6435955,This is it.
+1232,6440360,6442396,"We should be able
+to see it by now."
+1233,6444000,6445638,"Keep your eyes open
+for those fighters."
+1234,6447400,6449675,"There's too much interference.
+Red Five, can you see them?"
+1235,6449800,6452633,"- No sign of any-- Wait. Coming in .35.
+- I see them."
+1236,6454160,6455195,I'm in range.
+1237,6456440,6458078,Target's coming up.
+1238,6460560,6462551,"Just hold them off
+for a few seconds."
+1239,6463400,6464879,Close up formation.
+1240,6466240,6468310,Almost there.
+1241,6477040,6480157,"-Let her loose. They're right behind me.
+-Almost there."
+1242,6481480,6483038,I can't hold them.
+1243,6490960,6491631,It's away!
+1244,6496000,6497513,"- It's a hit!
+- Negative."
+1245,6497640,6499596,Negative. It didn't go in.
+1246,6499720,6502234,It just impacted on the surface.
+1247,6508480,6510038,"Red Leader, we're right above you."
+1248,6510160,6512230,"Turn to .05.
+We'll cover for you."
+1249,6512360,6515113,"Stay there. I just lost
+my starboard engine."
+1250,6515920,6518070,Get set up for your attack run.
+1251,6530880,6533314,"Rebel base, one minute and closing."
+1252,6534080,6535559,"Biggs, Wedge, let's close it up."
+1253,6535680,6538877,"We're going in full throttle. That ought
+to keep those fighters off our back."
+1254,6539080,6540991,"Right with you, boss."
+1255,6541120,6543270,"Luke, at that speed,
+will you be able to pull out in time?"
+1256,6543400,6545277,"It'll be just like
+Beggars Canyon back home."
+1257,6552360,6554476,"We'll stay back
+far enough to cover you."
+1258,6554600,6557034,"My scope shows the tower,
+but I can't see the exhaust port."
+1259,6557160,6558559,"Are you sure
+the computer can hit it?"
+1260,6561920,6563797,"Watch yourself.
+Increase speed, full throttle."
+1261,6563920,6565114,What about that tower?
+1262,6565240,6567515,"You worry about those fighters.
+I'll worry about the tower."
+1263,6573720,6577110,"R2, that stabilizer's broken loose
+again. See if you can't lock it down."
+1264,6585960,6587632,Fighters coming in .3.
+1265,6596240,6598595,"- I'm hit. I can't stay with you.
+- Get clear, Wedge."
+1266,6598720,6601075,"- You can't do any more good back there.
+- Sorry."
+1267,6602120,6603951,"Let him go.
+Stay on the leader."
+1268,6606840,6608956,"Hurry, Luke.
+They're coming in much faster this time."
+1269,6612960,6615520,"R2, try and increase the power."
+1270,6620720,6621869,"Hurry up, Luke. Quick."
+1271,6622800,6623835,Quick.
+1272,6630640,6633029,"Rebel base, 30 seconds and closing."
+1273,6633160,6634195,I'm on the leader.
+1274,6637560,6638913,"Hang on, R2."
+1275,6653760,6656194,"Use the Force, Luke."
+1276,6658760,6661274,"Let go, Luke."
+1277,6662680,6664910,The Force is strong with this one.
+1278,6665040,6666871,"Luke, trust me."
+1279,6671880,6673598,His computer's off.
+1280,6673720,6675756,"You switched off your
+targeting computer. What's wrong?"
+1281,6675880,6678314,Nothing. I'm all right.
+1282,6690800,6691949,I've lost R2.
+1283,6693800,6695756,The Death Star has cleared the planet.
+1284,6695880,6698075,The Death Star has cleared the planet.
+1285,6699120,6700633,Rebel base in range.
+1286,6700760,6702557,You may fire when ready.
+1287,6703280,6704633,Commence primary ignition.
+1288,6718080,6719399,I have you now.
+1289,6721800,6722869,What?
+1290,6725440,6726156,Look out.
+1291,6732800,6735473,"You're all clear, kid.
+Now let's blow this thing and go home."
+1292,6742080,6743308,Stand by.
+1293,6746240,6747832,Stand by.
+1294,6757920,6759717,"Great shot, kid!
+That was one in a million!"
+1295,6761160,6765358,"Remember, the Force
+will be with you always."
+1296,6789800,6791597,I just knew you'd come back.
+1297,6791720,6793995,"I wasn't gonna let you get all
+the credit and take all the reward."
+1298,6794120,6795997,"I knew there was
+more to you than money."
+1299,6796680,6797874,"Oh, no."
+1300,6798000,6800309,"Oh, my.
+R2, can you hear me?"
+1301,6801000,6803719,"Say something.
+You can repair him, can't you?"
+1302,6803840,6806912,"- We'll get to work on him right away.
+- You must repair him."
+1303,6807040,6809793,"Sir, if any of my circuits or gears
+will help, I'll gladly donate them."
+1304,6809920,6811797,He'll be all right.
