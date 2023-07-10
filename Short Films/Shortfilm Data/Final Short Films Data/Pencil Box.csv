@@ -1,0 +1,43 @@
+StartTime,EndTime,FrameEmotion,Emotion,PredictedEmotionBGM,Top Dominant Emotion 1,Top Dominant Emotion 2
+0,43,Peace,Peace,calm,sad,angry
+43,112,Joy,Joy,calm,angry,happy
+112,147,Fear,Joy,disgust,sad,angry
+147,182,Anger,Joy,disgust,fear,sad
+182,217,Anger,Joy,angry,neutral,sad
+217,240,"Sadness,Joy",Joy,disgust,neutral,sad
+240,272,Love,Neutral,calm,fear,sad
+272,304,"Anger, Love",Joy,calm,neutral,sad
+304,317,Neutral,Neutral,angry,neutral,sad
+317,347,"Joy, Sadness",Joy,disgust,angry,sad
+347,380,"Joy, Fear",Joy,calm,neutral,fear
+380,405,"Fear,Joy",Joy,calm,neutral,happy
+405,426,Joy,Peace,disgust,fear,angry
+426,468,Joy,Neutral,calm,angry,sad
+468,540,"Joy, Wonder",Neutral,disgust,neutral,fear
+540,570,Sadness,Neutral,disgust,sad,fear
+570,590,Anger,Joy,calm,sad,happy
+590,654,"Sadness,Joy",Joy,calm,happy,neutral
+654,692,Love,Neutral,calm,angry,fear
+692,720,Sadness,Joy,calm,neutral,fear
+720,753,Joy,Joy,calm,sad,neutral
+753,810,Joy,Neutral,calm,happy,fear
+810,876,Sadness,Neutral,calm,fear,sad
+876,927,Sadness,Sadness,calm,sad,neutral
+927,947,Sadness,Neutral,fearful,angry,sad
+947,1020,"Sadness, Love",Sadness,calm,angry,sad
+1020,1052,Sadness,Sadness,calm,neutral,sad
+1052,1065,"Sadness, Love",Sadness,happy,fear,sad
+1065,1154,Sadness,Sadness,calm,fear,sad
+1154,1189,Sadness,Neutral,sad,sad,fear
+1189,1218,Wonder,Wonder,disgust,fear,neutral
+1218,1275,Sadness,Sadness,calm,neutral,sad
+1275,1365,"Sadness, Anger",Sadness,calm,angry,happy
+1365,1380,Love,Neutral,calm,angry,neutral
+1380,1470,Sadness,Neutral,calm,fear,neutral
+1470,1478,Anger,Sadness,calm,neutral,sad
+1478,1542,Sadness,Sadness,calm,fear,neutral
+1542,1597,Sadness,Neutral,calm,sad,neutral
+1597,1657,Joy,Peace,calm,neutral,angry
+1657,1685,Fear,Wonder,disgust,neutral,sad
+1685,1714,Joy,Joy,sad,sad,neutral
+1714,1752,Sadness,Sadness,calm,neutral,fear

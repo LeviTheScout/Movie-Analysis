@@ -1,0 +1,19 @@
+StartTime,EndTime,FrameEmotion,Emotion
+0:00:15,0:01:35,Joy,Joy
+0:01:35,0:02:15,Joy,Neutral
+0:02:15,0:02:53,Joy,Neutral
+0:02:53,0:03:19,Joy,Neutral
+0:03:19,0:03:33,Anger,Neutral
+0:03:33,0:03:57,Fear,Neutral
+0:03:57,0:04:25,Joy,Joy
+0:04:25,0:05:20,"Sadness, Fear",Joy
+0:05:20,0:05:36,Joy,Joy
+0:05:36,0:05:55,"Joy, Sadness",Joy
+0:05:55,0:08:30,"Anger, Sadness",Sadness
+0:08:30,0:08:59,Anger,Neutral
+0:08:59,0:09:21,Anger,Anger
+0:09:21,0:09:45,Joy,Joy
+0:09:45,0:10:16,Anger,Wonder
+0:10:16,0:11:00,"Anger, Fear",Wonder
+0:11:00,0:12:20,Wonder,Joy
+0:12:20,0:12:49,Sadness,Sadness

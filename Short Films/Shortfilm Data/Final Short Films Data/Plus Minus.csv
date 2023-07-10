@@ -1,0 +1,20 @@
+StartTime,EndTime,FrameEmotion,Emotion,PredictedEmotionBGM,Top Dominant Emotion 1,Top Dominant Emotion 2
+0,54,Anger,Neutral,sad,angry,neutral
+54,67,Anger,Joy,sad,sad,neutral
+67,106,Anger,Joy,calm,sad,neutral
+106,130,Joy,Joy,calm,sad,fear
+130,191,Joy,Neutral,calm,sad,neutral
+191,289,"Anger,Joy",Neutral,calm,neutral,sad
+289,328,Joy,Joy,calm,neutral,angry
+328,356,Disgust,Neytral,calm,sad,neutral
+356,428,Love,"Joy, Calm",calm,neutral,sad
+428,485,Love,Neutral,calm,sad,neutral
+485,555,Love,Joy,disgust,neutral,sad
+555,596,Neutral,Neutral,calm,angry,sad
+596,672,Joy,Joy,sad,happy,neutral
+672,705,Joy,Neutral,angry,neutral,sad
+705,747,Love,Joy,disgust,sad,happy
+747,810,"Wonder, Anger",Wonder,sad,sad,neutral
+810,825,Anger,Wonder,calm,happy,sad
+825,942,Courage,Sadness,calm,sad,neutral
+942,1006,Joy,Joy,calm,sad,angry
